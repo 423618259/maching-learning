@@ -71,3 +71,5 @@ x_i = 1.2
 cost_1200sqft = w * x_i + b    
 
 print(f"${cost_1200sqft:.0f} thousand dollars")
+
+
